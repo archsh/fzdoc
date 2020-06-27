@@ -1,0 +1,7 @@
+project: "fzdoc"
+version: "0.1.1"
+author: "Mingcai SHEN <archsh@gmail.com>"
+release: ""
+categories:
+  - "projects"
+  - "apis"

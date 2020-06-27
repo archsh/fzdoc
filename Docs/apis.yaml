@@ -1,0 +1,8 @@
+- api: "API List"
+  path: "/p/{project}/apis"
+  method: "GET"
+  description: ""
+- api: "API Detail"
+  path: "/p/{project}/api/{name}"
+  method: "GET"
+  description: ""
